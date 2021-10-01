@@ -14,8 +14,8 @@ var pre="", pID, ppID=0, turn=0, t="transform", flip="rotateY(180deg)", flipBack
 //Resizing Screen
 window.onresize = init;
 function init() {
-   W = innerWidth;
-   H = innerHeight;
+   W = innerWith;
+   H = innerHeght;
    $('body').height(H+"px");
    $('#ol').height(H+"px");
 }
