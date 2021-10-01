@@ -1,5 +1,5 @@
 # Memory matching game
-# PLEASE READ ME
+# PLEASE READ ME AND AGAIN
 ## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
 
 
