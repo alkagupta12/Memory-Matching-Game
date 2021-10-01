@@ -5,7 +5,7 @@
 
 This project is made using HTML,CSS &amp; JavaScript.
 
-read this very properly
+read this very properly and carefully
 <br>
 Here are some snapshots from game.
 
