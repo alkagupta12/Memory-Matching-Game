@@ -3,11 +3,11 @@
     font-family: 'Biryani', sans-serif;
 }
 html {
-    width:100vw;
+    width:100%;
     height:100%;
 }
 body {
-    margin:2px;
+    margin:3px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#4481eb), to(#04bedd));
     background-image: -o-linear-gradient(top, #4481eb 0%, #04bedd 100%);
     background-image: linear-gradient(to bottom, #4481eb 0%, #04bedd 100%);
@@ -63,7 +63,7 @@ button {
     position: absolute;
     height:100vh;
     width:100vw;
-    background-color: rgba(0,0,200,0.1);
+    background-color: rgba(0,0.1,200,0.1);
     color: white;
     -webkit-backdrop-filter: blur(8px);
             backdrop-filter: blur(8px);
