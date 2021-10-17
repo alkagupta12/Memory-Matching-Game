@@ -38,11 +38,11 @@ table {
             backdrop-filter: blur(10px);
     border: 0.1px solid #ffff;
     border-radius: 10px;
-    padding: 5px;
+    padding: 4px;
 }
 #inst li {
     text-align: left;
-    padding: 5px;
+    padding: 4px;
 }
 
 button {
@@ -56,7 +56,7 @@ button {
     font-weight: smaller;
     width:100px;
     font-size:18px;
-    padding:5px;
+    padding:4px;
 }
 
 #ol {
