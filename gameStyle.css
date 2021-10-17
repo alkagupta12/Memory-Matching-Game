@@ -7,14 +7,14 @@ html {
     height:100%;
 }
 body {
-    margin:3px;
+    margin:5px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(#4481eb), to(#04bedd));
     background-image: -o-linear-gradient(top, #4481eb 0%, #04bedd 100%);
     background-image: linear-gradient(to bottom, #4481eb 0%, #04bedd 100%);
 }
 
 p {
-    font-size: 43px;
+    font-size: 42px;
     margin-top:7px;
 }
 td {
@@ -31,7 +31,7 @@ table {
 
 #inst {
     width: 85vw;
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.4);
     text-align: center;
     margin-top:16vh;
     -webkit-backdrop-filter: blur(10px);
